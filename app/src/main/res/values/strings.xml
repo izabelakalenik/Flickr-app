@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Flickr_app</string>
+
+    <string name="app_title">Flickr app</string>
+    <string name="photo_details">Photo details</string>
+
+    <string name="title">Title: %s</string>
+    <string name="date_taken">Date taken: %s</string>
+    <string name="author">Author: %s</string>
+    <string name="tags">Tags: %s</string>
 </resources>
